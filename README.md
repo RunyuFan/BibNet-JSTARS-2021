@@ -1,6 +1,6 @@
 # JSTARS-BibNet
 
-This repository is for our TGRS paper: "Urban Functional Zone Mapping With a Bibranch Neural Network via Fusing Remote Sensing and Social Sensing Data". (Please refer to https://ieeexplore.ieee.org/abstract/document/9612047)
+This repository is for our JSTARS paper: "Urban Functional Zone Mapping With a Bibranch Neural Network via Fusing Remote Sensing and Social Sensing Data". (Please refer to https://ieeexplore.ieee.org/abstract/document/9612047)
 
 If it is helpful for you, please cite the following references.
 
